@@ -1,2 +1,4 @@
-# VAP
-Voice Activity Projection
+# VAP: Voice Activity Projection
+
+
+Work in Progress...
